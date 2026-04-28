@@ -70,11 +70,6 @@ Tu objetivo será comprometer la máquina y capturar todas las flags.
 
 ## Featured Screenshot
 
-### Root Access / Acceso Root
-
-![Root](screenshots/root.png)
-
----
 
 ## Screenshots
 
